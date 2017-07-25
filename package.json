@@ -1,0 +1,24 @@
+{
+  "name": "react-native-autoplay-swiper",
+  "version": "1.0.0",
+  "description": "自动轮播图",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangkyi03/react-native-autoplay-swiper.git"
+  },
+  "keywords": [
+    "react-native",
+    "autoplaySwiper",
+    "react-native-swiper"
+  ],
+  "author": "fangkyi03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangkyi03/react-native-autoplay-swiper/issues"
+  },
+  "homepage": "https://github.com/fangkyi03/react-native-autoplay-swiper#readme"
+}
